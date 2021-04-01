@@ -40,4 +40,3 @@ try {
 }
 
 console.log(box.locked);
-// → true
