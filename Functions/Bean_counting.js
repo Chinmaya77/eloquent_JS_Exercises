@@ -21,4 +21,4 @@ let countChar = function (a, b) {
   console.log(count);
 };
 countBs("hinBnuhdhsBB");
-countChar("aasdfgghzgg", "z");
+countChar("aasdfghzgg", "z");
